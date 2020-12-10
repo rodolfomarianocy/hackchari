@@ -1,6 +1,7 @@
 #Autor rodolfomarianocy
-#rodolfomarianocy/in/linkedin.com
+#linkedin.com/in/rodolfomarianocy
 #rodolfomarianocy@medium.com
+
 import sys
 import urllib
 import base64
